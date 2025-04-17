@@ -1,0 +1,23 @@
+C:\Users\Marcelo Espinoza\source\repos\ApiAssistControl\AssistControlShared\bin\Release\net6.0\AssistControlShared.deps.json
+C:\Users\Marcelo Espinoza\source\repos\ApiAssistControl\AssistControlShared\bin\Release\net6.0\AssistControlShared.dll
+C:\Users\Marcelo Espinoza\source\repos\ApiAssistControl\AssistControlShared\bin\Release\net6.0\AssistControlShared.pdb
+C:\Users\Marcelo Espinoza\source\repos\ApiAssistControl\AssistControlShared\obj\Release\net6.0\AssistControlShared.csproj.AssemblyReference.cache
+C:\Users\Marcelo Espinoza\source\repos\ApiAssistControl\AssistControlShared\obj\Release\net6.0\AssistControlShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo Espinoza\source\repos\ApiAssistControl\AssistControlShared\obj\Release\net6.0\AssistControlShared.AssemblyInfoInputs.cache
+C:\Users\Marcelo Espinoza\source\repos\ApiAssistControl\AssistControlShared\obj\Release\net6.0\AssistControlShared.AssemblyInfo.cs
+C:\Users\Marcelo Espinoza\source\repos\ApiAssistControl\AssistControlShared\obj\Release\net6.0\AssistControlShared.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Espinoza\source\repos\ApiAssistControl\AssistControlShared\obj\Release\net6.0\AssistControlShared.dll
+C:\Users\Marcelo Espinoza\source\repos\ApiAssistControl\AssistControlShared\obj\Release\net6.0\refint\AssistControlShared.dll
+C:\Users\Marcelo Espinoza\source\repos\ApiAssistControl\AssistControlShared\obj\Release\net6.0\AssistControlShared.pdb
+C:\Users\Marcelo Espinoza\source\repos\ApiAssistControl\AssistControlShared\obj\Release\net6.0\ref\AssistControlShared.dll
+C:\Users\mespinoza\Desktop\ApiAssistControl-main\AssistControlShared\bin\Release\net6.0\AssistControlShared.deps.json
+C:\Users\mespinoza\Desktop\ApiAssistControl-main\AssistControlShared\bin\Release\net6.0\AssistControlShared.dll
+C:\Users\mespinoza\Desktop\ApiAssistControl-main\AssistControlShared\bin\Release\net6.0\AssistControlShared.pdb
+C:\Users\mespinoza\Desktop\ApiAssistControl-main\AssistControlShared\obj\Release\net6.0\AssistControlShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mespinoza\Desktop\ApiAssistControl-main\AssistControlShared\obj\Release\net6.0\AssistControlShared.AssemblyInfoInputs.cache
+C:\Users\mespinoza\Desktop\ApiAssistControl-main\AssistControlShared\obj\Release\net6.0\AssistControlShared.AssemblyInfo.cs
+C:\Users\mespinoza\Desktop\ApiAssistControl-main\AssistControlShared\obj\Release\net6.0\AssistControlShared.csproj.CoreCompileInputs.cache
+C:\Users\mespinoza\Desktop\ApiAssistControl-main\AssistControlShared\obj\Release\net6.0\AssistControlShared.dll
+C:\Users\mespinoza\Desktop\ApiAssistControl-main\AssistControlShared\obj\Release\net6.0\refint\AssistControlShared.dll
+C:\Users\mespinoza\Desktop\ApiAssistControl-main\AssistControlShared\obj\Release\net6.0\AssistControlShared.pdb
+C:\Users\mespinoza\Desktop\ApiAssistControl-main\AssistControlShared\obj\Release\net6.0\ref\AssistControlShared.dll
