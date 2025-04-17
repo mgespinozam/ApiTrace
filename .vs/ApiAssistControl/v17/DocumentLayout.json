@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81F31A16-319A-4584-95B3-7AD27C42A6E9}|ApiAssistControl\\ApiAssistControl.csproj|c:\\users\\mespinoza\\desktop\\marcelo\\logapi\\apitrace\\apiassistcontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F31A16-319A-4584-95B3-7AD27C42A6E9}|ApiAssistControl\\ApiAssistControl.csproj|solutionrelative:apiassistcontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F31A16-319A-4584-95B3-7AD27C42A6E9}|ApiAssistControl\\ApiAssistControl.csproj|c:\\users\\mespinoza\\desktop\\marcelo\\logapi\\apitrace\\apiassistcontrol\\globalsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F31A16-319A-4584-95B3-7AD27C42A6E9}|ApiAssistControl\\ApiAssistControl.csproj|solutionrelative:apiassistcontrol\\globalsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F31A16-319A-4584-95B3-7AD27C42A6E9}|ApiAssistControl\\ApiAssistControl.csproj|c:\\users\\mespinoza\\desktop\\marcelo\\logapi\\apitrace\\apiassistcontrol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81F31A16-319A-4584-95B3-7AD27C42A6E9}|ApiAssistControl\\ApiAssistControl.csproj|solutionrelative:apiassistcontrol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F31A16-319A-4584-95B3-7AD27C42A6E9}|ApiAssistControl\\ApiAssistControl.csproj|c:\\users\\mespinoza\\desktop\\marcelo\\logapi\\apitrace\\apiassistcontrol\\controllers\\utilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F31A16-319A-4584-95B3-7AD27C42A6E9}|ApiAssistControl\\ApiAssistControl.csproj|solutionrelative:apiassistcontrol\\controllers\\utilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F31A16-319A-4584-95B3-7AD27C42A6E9}|ApiAssistControl\\ApiAssistControl.csproj|c:\\users\\mespinoza\\desktop\\marcelo\\logapi\\apitrace\\apiassistcontrol\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81F31A16-319A-4584-95B3-7AD27C42A6E9}|ApiAssistControl\\ApiAssistControl.csproj|solutionrelative:apiassistcontrol\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F31A16-319A-4584-95B3-7AD27C42A6E9}|ApiAssistControl\\ApiAssistControl.csproj|c:\\users\\mespinoza\\desktop\\marcelo\\logapi\\apitrace\\apiassistcontrol\\data\\utildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F31A16-319A-4584-95B3-7AD27C42A6E9}|ApiAssistControl\\ApiAssistControl.csproj|solutionrelative:apiassistcontrol\\data\\utildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F31A16-319A-4584-95B3-7AD27C42A6E9}|ApiAssistControl\\ApiAssistControl.csproj|c:\\users\\mespinoza\\desktop\\marcelo\\logapi\\apitrace\\apiassistcontrol\\repositorio\\iutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F31A16-319A-4584-95B3-7AD27C42A6E9}|ApiAssistControl\\ApiAssistControl.csproj|solutionrelative:apiassistcontrol\\repositorio\\iutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F31A16-319A-4584-95B3-7AD27C42A6E9}|ApiAssistControl\\ApiAssistControl.csproj|c:\\users\\mespinoza\\desktop\\marcelo\\logapi\\apitrace\\apiassistcontrol\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F31A16-319A-4584-95B3-7AD27C42A6E9}|ApiAssistControl\\ApiAssistControl.csproj|solutionrelative:apiassistcontrol\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46569AA-4C54-40B7-83CA-B951A97E63B2}|AssistControlShared\\AssistControlShared.csproj|c:\\users\\mespinoza\\desktop\\marcelo\\logapi\\apitrace\\assistcontrolshared\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46569AA-4C54-40B7-83CA-B951A97E63B2}|AssistControlShared\\AssistControlShared.csproj|solutionrelative:assistcontrolshared\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F31A16-319A-4584-95B3-7AD27C42A6E9}|ApiAssistControl\\ApiAssistControl.csproj|c:\\users\\mespinoza\\desktop\\marcelo\\logapi\\apitrace\\apiassistcontrol\\apiassistcontrol.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{81F31A16-319A-4584-95B3-7AD27C42A6E9}|ApiAssistControl\\ApiAssistControl.csproj|solutionrelative:apiassistcontrol\\apiassistcontrol.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46569AA-4C54-40B7-83CA-B951A97E63B2}|AssistControlShared\\AssistControlShared.csproj|c:\\users\\mespinoza\\desktop\\marcelo\\logapi\\apitrace\\assistcontrolshared\\models\\trace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46569AA-4C54-40B7-83CA-B951A97E63B2}|AssistControlShared\\AssistControlShared.csproj|solutionrelative:assistcontrolshared\\models\\trace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalSource.cs",
+              "DocumentMoniker": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\ApiAssistControl\\GlobalSource.cs",
+              "RelativeDocumentMoniker": "ApiAssistControl\\GlobalSource.cs",
+              "ToolTip": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\ApiAssistControl\\GlobalSource.cs",
+              "RelativeToolTip": "ApiAssistControl\\GlobalSource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:31:47.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUtil.cs",
+              "DocumentMoniker": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\ApiAssistControl\\Repositorio\\IUtil.cs",
+              "RelativeDocumentMoniker": "ApiAssistControl\\Repositorio\\IUtil.cs",
+              "ToolTip": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\ApiAssistControl\\Repositorio\\IUtil.cs",
+              "RelativeToolTip": "ApiAssistControl\\Repositorio\\IUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:27:24.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\ApiAssistControl\\Program.cs",
+              "RelativeDocumentMoniker": "ApiAssistControl\\Program.cs",
+              "ToolTip": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\ApiAssistControl\\Program.cs",
+              "RelativeToolTip": "ApiAssistControl\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:38:17.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UtilController.cs",
+              "DocumentMoniker": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\ApiAssistControl\\Controllers\\UtilController.cs",
+              "RelativeDocumentMoniker": "ApiAssistControl\\Controllers\\UtilController.cs",
+              "ToolTip": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\ApiAssistControl\\Controllers\\UtilController.cs",
+              "RelativeToolTip": "ApiAssistControl\\Controllers\\UtilController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:22:42.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\ApiAssistControl\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiAssistControl\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\ApiAssistControl\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiAssistControl\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T15:35:05.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\ApiAssistControl\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiAssistControl\\appsettings.json",
+              "ToolTip": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\ApiAssistControl\\appsettings.json",
+              "RelativeToolTip": "ApiAssistControl\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T14:39:35.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UtilData.cs",
+              "DocumentMoniker": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\ApiAssistControl\\Data\\UtilData.cs",
+              "RelativeDocumentMoniker": "ApiAssistControl\\Data\\UtilData.cs",
+              "ToolTip": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\ApiAssistControl\\Data\\UtilData.cs",
+              "RelativeToolTip": "ApiAssistControl\\Data\\UtilData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:22:26.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\ApiAssistControl\\Utils.cs",
+              "RelativeDocumentMoniker": "ApiAssistControl\\Utils.cs",
+              "ToolTip": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\ApiAssistControl\\Utils.cs",
+              "RelativeToolTip": "ApiAssistControl\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:48:17.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiAssistControl",
+              "DocumentMoniker": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\ApiAssistControl\\ApiAssistControl.csproj",
+              "RelativeDocumentMoniker": "ApiAssistControl\\ApiAssistControl.csproj",
+              "ToolTip": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\ApiAssistControl\\ApiAssistControl.csproj",
+              "RelativeToolTip": "ApiAssistControl\\ApiAssistControl.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T15:32:26.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\AssistControlShared\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "AssistControlShared\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\AssistControlShared\\Models\\Message.cs",
+              "RelativeToolTip": "AssistControlShared\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:28:31.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Trace.cs",
+              "DocumentMoniker": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\AssistControlShared\\Models\\Trace.cs",
+              "RelativeDocumentMoniker": "AssistControlShared\\Models\\Trace.cs",
+              "ToolTip": "C:\\Users\\mespinoza\\Desktop\\Marcelo\\logApi\\ApiTrace\\AssistControlShared\\Models\\Trace.cs",
+              "RelativeToolTip": "AssistControlShared\\Models\\Trace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:19:47.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
