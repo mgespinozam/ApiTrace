@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AssistControlShared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f2c146dac9a8e56e8ecd9fc7caf49c92715d90b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5da56a9ab3080b086c6dfe2f06761fb96c53643")]
 [assembly: System.Reflection.AssemblyProductAttribute("AssistControlShared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AssistControlShared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
